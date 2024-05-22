@@ -1,0 +1,15 @@
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.deps.json
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.BL.pdb
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.AssemblyReference.cache
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfoInputs.cache
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.AssemblyInfo.cs
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.csproj.CopyComplete
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\refint\E-Commerce.BL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\E-Commerce.BL.pdb
+D:\ITI\Projects\E-Commerce\E-Commerce.BL\obj\Debug\net8.0\ref\E-Commerce.BL.dll

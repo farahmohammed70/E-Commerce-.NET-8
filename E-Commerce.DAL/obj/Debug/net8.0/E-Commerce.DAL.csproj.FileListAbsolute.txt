@@ -1,0 +1,14 @@
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.deps.json
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.AssemblyInfo.cs
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\refint\E-Commerce.DAL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.pdb
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\ref\E-Commerce.DAL.dll
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\bin\Debug\net8.0\E-Commerce.DAL.runtimeconfig.json
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+D:\ITI\Projects\E-Commerce\E-Commerce.DAL\obj\Debug\net8.0\E-Commerce.DAL.genruntimeconfig.cache
